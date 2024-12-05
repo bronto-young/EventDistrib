@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
+=======
+
+build/
+*.sw?
+obj/
+>>>>>>> 2b3f82f (Initial commit)
